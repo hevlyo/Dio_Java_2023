@@ -9,7 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DesafioIphone" target="1.7" />
+      <module name="DesafioIPhone" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -15,7 +15,7 @@ public class iPhone implements Telefone, ReprodutorMusical, NavegadorInternet{
         System.out.println("Ligando...");
     }
 
-    public void desligar() {
+    public void desligardesligar() {
         System.out.println("Desligando...");
     }
 
